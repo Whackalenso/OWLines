@@ -45,7 +45,7 @@ const RESOURCES = {
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "73948aa1336442e5b56a1349428a7d1c",
 "/": "73948aa1336442e5b56a1349428a7d1c",
-"https://whackalenso.github.io/OWLines/main.dart.js": "4ebb07bb854d2cb96626bc556cb8e2c0",
+"main.dart.js": "4ebb07bb854d2cb96626bc556cb8e2c0",
 "manifest.json": "4e7d6e0c18251fba72efeb8c7075897e",
 "version.json": "0f5c0dc7dbb2da4bef7f4a3864fba461"
 };
@@ -54,7 +54,7 @@ const RESOURCES = {
 // start.
 const CORE = [
   "/",
-"https://whackalenso.github.io/OWLines/main.dart.js",
+"main.dart.js",
 "index.html",
 "assets/NOTICES",
 "assets/AssetManifest.json",
