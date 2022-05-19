@@ -1,1 +1,26 @@
-[{"family":"MaterialIcons","fonts":[{"asset":"/OWLines/assets/fonts/MaterialIcons-Regular.otf"}]},{"family":"Bebas Neue","fonts":[{"asset":"/OWLines/assets/fonts/BebasNeue-Regular.ttf"}]},{"family":"/OWLines/assets/packages/cupertino_icons/CupertinoIcons","fonts":[{"asset":"/OWLines/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf"}]}]
+[
+    {
+        "family": "MaterialIcons",
+        "fonts": [
+            {
+                "asset": "fonts/MaterialIcons-Regular.otf"
+            }
+        ]
+    },
+    {
+        "family": "Bebas Neue",
+        "fonts": [
+            {
+                "asset": "fonts/BebasNeue-Regular.ttf"
+            }
+        ]
+    },
+    {
+        "family": "packages/cupertino_icons/CupertinoIcons",
+        "fonts": [
+            {
+                "asset": "packages/cupertino_icons/assets/CupertinoIcons.ttf"
+            }
+        ]
+    }
+]
