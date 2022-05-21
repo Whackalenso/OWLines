@@ -56955,7 +56955,7 @@ while(true)switch(s){case 0:q.lg()
 q.d=d
 c=A.Mh(c,"?","(")
 A.kw("test")
-A.akT(!0,A.b(["assets/assets/"+b.a+("_ "+c+".wav")],t.i)).GP(0)
+A.akT(!0,A.b(["OWLines/assets/assets/"+b.a+("_ "+c+".wav")],t.i)).GP(0)
 return A.a4(null,r)}})
 return A.a5($async$xn,r)},
 lg(){var s=0,r=A.a6(t.z),q=this
