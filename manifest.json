@@ -1,11 +1,11 @@
 {
-    "name": "ow_voice_lines",
-    "short_name": "ow_voice_lines",
+    "name": "Overwatch Voice Lines",
+    "short_name": "OWLines",
     "start_url": ".",
-    "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "display": "fullscreen",
+    "background_color": "#121212",
+    "theme_color": "#121212",
+    "description": "",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
