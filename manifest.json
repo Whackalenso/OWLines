@@ -2,7 +2,7 @@
     "name": "Overwatch Voice Lines",
     "short_name": "OWLines",
     "start_url": ".",
-    "display": "fullscreen",
+    "display": "standalone",
     "background_color": "#303030",
     "theme_color": "#303030",
     "description": "",
